@@ -2,7 +2,7 @@
 My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying to grow my programming skills while maintaining my student life. I'm from Lap Vo, Dong Thap.
 
 ***About me***
-- Facebook: [chitamha](https://www.facebook.com/chitam297)
+- Facebook: [Chí Tâm](https://www.facebook.com/chitam297)
 - Codeforces: [chitamha](https://codeforces.com/profile/chitamha)
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
 ##  Tech Stack 🛠
@@ -10,7 +10,7 @@ My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying
 ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-333333?logo=python)
 ##### Editor & IDE
-![CodeBlock](https://img.shields.io/badge/-Code%20Block%20-333333?logo=code-block&logoColor=007ACC)
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-333333?logo=code-block&logoColor=007ACC)
 ##### Other tools
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github)
 ## Stats
