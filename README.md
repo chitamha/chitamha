@@ -6,6 +6,8 @@ My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying
 - Codeforces: [chitamha](https://codeforces.com/profile/chitamha)
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
 ##  Tech Stack 🛠
+<img align="right" alt="GIF" src="Coder.gif"/>
+
 ##### Languages
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
