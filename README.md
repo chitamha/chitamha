@@ -7,8 +7,18 @@ My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
 ##  Tech Stack 🛠
 ##### Languages
-![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-333333?logo=python)
+<p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    </a>
+</p>
+
 ##### Editor & IDE
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-333333?logo=code-block&logoColor=007ACC)
 ##### Other tools
