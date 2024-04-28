@@ -5,26 +5,17 @@ My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying
 - Facebook: [Chí Tâm](https://www.facebook.com/chitam297)
 - Codeforces: [chitamha](https://codeforces.com/profile/chitamha)
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
-##  Tech Stack 🛠
+##  Tech Stack
 <img align="right" alt="GIF" src="Coder.gif"/>
 
 ##### Languages
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-##### Editor & IDE
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks%20-333333?logo=code-block&logoColor=007ACC)
 ##### Other tools
-![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitamha&theme=dark&hide_border=true)](https://github.com/chitamha)
 
