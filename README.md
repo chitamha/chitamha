@@ -1,5 +1,5 @@
 # Hello there!
-My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying to grow my programming skills while maintaining my student life. I'm from Lap Vo, Dong Thap.
+My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying to grow my programming skills while maintaining my student life.
 
 ***About me***
 - Facebook: [Chí Tâm](https://www.facebook.com/chitam297)
@@ -16,6 +16,9 @@ My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying
 ##### Other tools
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+<br>
+
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitamha&theme=dark&hide_border=true)](https://github.com/chitamha)
 
