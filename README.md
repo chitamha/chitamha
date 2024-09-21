@@ -2,7 +2,7 @@
 <!--!My name is Chi Tam. I am currently a student at Lap Vo 1 high school. I'm trying to grow my programming skills while maintaining my student life.-->
 
 ***About me***
-- Facebook: [Chí Tâm](https://www.facebook.com/chitam297)
+- Facebook: [Chí Tâm](https://www.facebook.com/chitamha0209.me)
 - Codeforces: [chitamha](https://codeforces.com/profile/chitamha)
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
 ##  Tech Stack
