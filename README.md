@@ -1,5 +1,5 @@
 # Hi!
-My name is Chi Tam. I am currently a student at Lap Vo 1 high school.
+My name is Chi Tam and I am currently a student at Lap Vo 1 High School.
 
 ***About me***
 - Facebook: [Chí Tâm](https://www.facebook.com/chitamha0209.me)
