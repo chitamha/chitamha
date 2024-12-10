@@ -19,6 +19,6 @@ My name is Chi Tam and I am currently a student at Lap Vo 1 High School.
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitamha&theme=dark&hide_border=true)](https://github.com/chitamha)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitamha&theme=github-dark&hide_border=true)](https://github.com/chitamha)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chitamha&theme=dark&mode=weekly)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=chitamha&custom_title=Overall&show_icons=true&theme=dark&hide_rank=true&hide_border=true&count_private=true)](https://github.com/chitamha)
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chitamha&custom_title=Activty&theme=github-compact&hide_border=true)](https://github.com/chitamha)
