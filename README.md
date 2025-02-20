@@ -2,7 +2,7 @@
 My name is Chi Tam and I am currently a student at Lap Vo 1 High School.
 
 **About me**
-- Facebook: [Chí Tâm](https://www.facebook.com/chitamha0209.me)
+- Facebook: [Chí Tâm](https://www.facebook.com/chitamha02092007)
 - Codeforces: [chitamha](https://codeforces.com/profile/chitamha)
 - VNOJ: [chitamha](https://oj.vnoi.info/user/chitamha)
 
