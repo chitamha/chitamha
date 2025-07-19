@@ -8,6 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=chitamha)
 
 <img align="right" alt="GIF" src="Coder.gif"/>
+
 ##  Tech Stack
 
 ##### Languages
