@@ -25,4 +25,5 @@
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitamha&theme=dark&hide_border=true)](https://github.com/chitamha)
+[![Stats](https://streak-stats.demolab.com?user=chitamha&theme=onedark&hide_border=true)](https://github.com/chitamha)
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chitamha&custom_title=Activty&theme=github-compact&hide_border=true)](https://github.com/chitamha)
