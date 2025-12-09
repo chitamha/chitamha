@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br>
-
+<br>
 <!--
 ##### Other Tools
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -24,5 +24,5 @@
 -->
 
 ## Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitamha&theme=dark&hide_border=true" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chitamha&theme=github_dark" />
